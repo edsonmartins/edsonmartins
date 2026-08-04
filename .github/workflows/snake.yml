@@ -1,0 +1,37 @@
+name: Gera a animação da cobrinha
+
+# Renderiza o gráfico de contribuições como uma animação e publica o SVG
+# na branch `output`. Hospedado no próprio repositório — ao contrário dos
+# widgets de terceiros, não quebra quando um serviço externo sai do ar.
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  gerar:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Gera os SVGs (tema claro e escuro)
+        uses: Platane/snk@v3
+        id: snake
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+
+      - name: Publica na branch output
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

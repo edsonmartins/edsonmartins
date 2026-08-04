@@ -28,10 +28,16 @@
 
 <br/>
 
-<!-- PROVA PÚBLICA: 41 ARTEFATOS NO MAVEN CENTRAL -->
+<!-- PROVA PÚBLICA: PACOTES PUBLICADOS (MAVEN CENTRAL + NPM) -->
 <div align="center">
   <a href="https://central.sonatype.com/namespace/br.com.archbase">
-    <img alt="Archbase Framework no Maven Central" src="https://img.shields.io/maven-central/v/br.com.archbase/archbase-app-framework?style=for-the-badge&logo=apachemaven&logoColor=white&label=Archbase%20no%20Maven%20Central&color=2BB6D6" />
+    <img alt="Archbase no Maven Central" src="https://img.shields.io/maven-central/v/br.com.archbase/archbase-app-framework?style=for-the-badge&logo=apachemaven&logoColor=white&label=Maven%20Central&color=2BB6D6" />
+  </a>
+  <a href="https://www.npmjs.com/package/@archbase/core">
+    <img alt="Escopo @archbase no npm" src="https://img.shields.io/npm/v/@archbase/core?style=for-the-badge&logo=npm&logoColor=white&label=%40archbase%20no%20npm&color=CB3837" />
+  </a>
+  <a href="https://pub.dev/packages/archbase_flutter">
+    <img alt="archbase_flutter no pub.dev" src="https://img.shields.io/pub/v/archbase_flutter?style=for-the-badge&logo=dart&logoColor=white&label=pub.dev&color=0175C2" />
   </a>
 </div>
 
@@ -86,12 +92,16 @@ const edson = {
 | **PullWise.ai** | Code review open-source para Java/Spring Boot | LangChain4j · SAST híbrido |
 | **[Doclenz](https://doclenz.dev/)** | Inteligência documental com LLMs e RAG | Docling · vLLM |
 
-### 🏗️ Frameworks & Plataformas de Desenvolvimento
-| Produto | Descrição | Stack |
-|---------|-----------|-------|
-| **[Archbase Framework](https://archbase.dev/pt/)** · [repo](https://github.com/edsonmartins/archbase-app-framework) | Framework Java enterprise com DDD + Arquitetura Hexagonal — **41 artefatos no [Maven Central](https://central.sonatype.com/namespace/br.com.archbase)** | Spring Boot 3.5 · Java 17 |
-| **[Archbase React](https://github.com/edsonmartins/archbase-react)** | Componentes Mantine para B2B enterprise | React · TypeScript · Mantine |
-| **[UseDevKit](https://github.com/edsonmartins/usedevkit)** | Toolkit de desenvolvimento para o ecossistema Archbase | TypeScript |
+### 🏗️ Archbase — ecossistema full-stack
+
+Um framework opinado para B2B enterprise, publicado nos **três** registries oficiais das plataformas que cobre. Tudo aberto e verificável:
+
+| Camada | Registry | Pacotes | Stack |
+|--------|----------|---------|-------|
+| **[Archbase Framework](https://archbase.dev/pt/)** · [repo](https://github.com/edsonmartins/archbase-app-framework) | [Maven Central](https://central.sonatype.com/namespace/br.com.archbase) | **41 artefatos** em `br.com.archbase` | Spring Boot 3.5 · Java 17 · DDD + Hexagonal |
+| **[Archbase React](https://github.com/edsonmartins/archbase-react)** | [npm](https://www.npmjs.com/package/@archbase/core) | **13 pacotes** no escopo `@archbase` | React · TypeScript · Mantine |
+| **[Archbase Flutter](https://pub.dev/packages/archbase_flutter)** · [repo](https://github.com/edsonmartins/archbase-flutter) | [pub.dev](https://pub.dev/packages/archbase_flutter) | **3 pacotes** — 150/160 pub points | Dart · Flutter · Material 3 |
+| **[UseDevKit](https://github.com/edsonmartins/usedevkit)** | — | Toolkit de desenvolvimento do ecossistema | TypeScript |
 
 ### 🚀 Plataformas de Negócio
 | Produto | Descrição | Stack |
@@ -169,6 +179,15 @@ philosophy: "100% local-first, LGPD by design"
   <img alt="Gráfico de atividade de contribuições" src="https://github-readme-activity-graph.vercel.app/graph?username=edsonmartins&hide_border=true&bg_color=0D1117&color=3FCB5F&line=2BB6D6&point=1E6FF5&title_color=3FCB5F&area=true&area_color=3FCB5F" />
 </div>
 
+<!-- SNAKE: gerado pelo workflow .github/workflows/snake.yml e servido do próprio repo -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/edsonmartins/edsonmartins/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/edsonmartins/edsonmartins/output/snake.svg" />
+    <img alt="Animação de uma cobrinha percorrendo o gráfico de contribuições" src="https://raw.githubusercontent.com/edsonmartins/edsonmartins/output/snake.svg" />
+  </picture>
+</div>
+
 ---
 
 ## 🏆 GitHub Trophies
@@ -210,7 +229,7 @@ The combination of **mature Java enterprise + AI agent orchestration + local inf
 
 **🤖 AI & Agents:** VendaX.ai (B2B sales automation with 6 specialized agents via WhatsApp) · [ArchFlow](https://archflow.com.br/) (open-source Java agent framework) · [Brain Sentry](https://app.brainsentry.com.br/) (graph-native agent memory on FalkorDB) · PullWise.ai (open-source AI code review for Java/Spring Boot) · [Doclenz](https://doclenz.dev/) (document intelligence).
 
-**🏗️ Frameworks:** [Archbase Framework](https://archbase.dev/pt/) (enterprise Java with DDD + Hexagonal Architecture — 41 artifacts on [Maven Central](https://central.sonatype.com/namespace/br.com.archbase)) · [Archbase React](https://github.com/edsonmartins/archbase-react) (Mantine components for B2B enterprise) · [UseDevKit](https://github.com/edsonmartins/usedevkit).
+**🏗️ Archbase — full-stack ecosystem:** an opinionated B2B enterprise framework shipped on all three official registries of the platforms it covers — **41 artifacts** on [Maven Central](https://central.sonatype.com/namespace/br.com.archbase) (`br.com.archbase`, Spring Boot 3.5 + DDD/Hexagonal), **13 packages** on [npm](https://www.npmjs.com/package/@archbase/core) (`@archbase` scope, React + Mantine), and **3 packages** on [pub.dev](https://pub.dev/packages/archbase_flutter) (Flutter, 150/160 pub points). Plus [UseDevKit](https://github.com/edsonmartins/usedevkit).
 
 **🚀 Business platforms:** RouteX.dev (multi-tenant routing optimization) · [Linktor](https://linktor.dev/) (multichannel messaging in Go) · Power View (Power BI Embedded SaaS) · [SquadX.dev](https://github.com/edsonmartins/squadx.dev) (Squad-as-a-Service).
 
