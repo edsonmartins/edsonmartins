@@ -1,12 +1,12 @@
 <!-- BANNER COM CORES DO LOGO INTEGRALLTECH (azul -> ciano -> verde) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E6FF5,50:2BB6D6,100:3FCB5F&height=220&section=header&text=Edson%20Martins&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Architect%20%7C%20AI-First%20Builder%20%7C%20Java%20%2B%20Agents%20%2B%20Local%20AI&descAlignY=58&descSize=16" />
+  <img alt="Edson Martins — Software Architect | AI-First Builder | Java + Agents + Local AI" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E6FF5,50:2BB6D6,100:3FCB5F&height=220&section=header&text=Edson%20Martins&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Architect%20%7C%20AI-First%20Builder%20%7C%20Java%20%2B%20Agents%20%2B%20Local%20AI&descAlignY=58&descSize=16" />
 </div>
 
 <!-- TYPING ANIMATION COM VERDE DO LOGO -->
 <div align="center">
-  <a href="https://github.com/edsonmartins">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=800&color=3FCB5F&center=true&vCenter=true&width=700&lines=Construindo+software+desde+1989;Arquiteto+%26+Founder+%40+IntegrAllTech;Java+%2B+Spring+Boot+%2B+LangChain4j;Build+local%2C+avoid+cloud+lock-in" />
+  <a href="https://www.integrall.tech">
+    <img alt="Construindo software desde 1989 · Arquiteto e Founder na IntegrAllTech · Java + Spring Boot + LangChain4j · Build local, avoid cloud lock-in" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=800&color=3FCB5F&center=true&vCenter=true&width=700&lines=Construindo+software+desde+1989;Arquiteto+%26+Founder+%40+IntegrAllTech;Java+%2B+Spring+Boot+%2B+LangChain4j;Build+local%2C+avoid+cloud+lock-in" />
   </a>
 </div>
 
@@ -15,24 +15,33 @@
 <!-- SOCIAL BADGES COM CORES PERSONALIZADAS DO LOGO -->
 <div align="center">
   <a href="https://www.linkedin.com/in/edson-martins-relevant/">
-    <img src="https://img.shields.io/badge/LinkedIn-1E6FF5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-1E6FF5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/edsonmartins">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://www.integrall.tech">
+    <img alt="IntegrAllTech" src="https://img.shields.io/badge/IntegrAllTech-1E6FF5?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="https://www.archbase.com.br">
-    <img src="https://img.shields.io/badge/Archbase-2BB6D6?style=for-the-badge&logo=apachemaven&logoColor=white" />
+  <a href="https://archbase.dev/pt/">
+    <img alt="Archbase" src="https://img.shields.io/badge/Archbase-2BB6D6?style=for-the-badge&logo=apachemaven&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Maringá%2C%20PR-3FCB5F?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img alt="Localização: Maringá, PR — Brasil" src="https://img.shields.io/badge/Maringá%2C%20PR-3FCB5F?style=for-the-badge&logo=googlemaps&logoColor=white" />
+</div>
+
+<br/>
+
+<!-- PROVA PÚBLICA: 41 ARTEFATOS NO MAVEN CENTRAL -->
+<div align="center">
+  <a href="https://central.sonatype.com/namespace/br.com.archbase">
+    <img alt="Archbase Framework no Maven Central" src="https://img.shields.io/maven-central/v/br.com.archbase/archbase-app-framework?style=for-the-badge&logo=apachemaven&logoColor=white&label=Archbase%20no%20Maven%20Central&color=2BB6D6" />
+  </a>
 </div>
 
 <br/>
 
 <!-- VISITOR COUNTER COM AS 3 CORES DO LOGO -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=edsonmartins&label=Profile%20views&color=3FCB5F&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/edsonmartins?label=Followers&style=flat-square&color=2BB6D6" />
-  <img src="https://img.shields.io/github/stars/edsonmartins?label=Stars&style=flat-square&color=1E6FF5" />
+  <img alt="Visualizações do perfil" src="https://komarev.com/ghpvc/?username=edsonmartins&label=Profile%20views&color=3FCB5F&style=flat-square" />
+  <img alt="Seguidores no GitHub" src="https://img.shields.io/github/followers/edsonmartins?label=Followers&style=flat-square&color=2BB6D6" />
+  <img alt="Total de estrelas no GitHub" src="https://img.shields.io/github/stars/edsonmartins?label=Stars&style=flat-square&color=1E6FF5" />
 </div>
 
 ---
@@ -59,28 +68,28 @@ const edson = {
 };
 ```
 
-**O que faço:** sou sócio-fundador da [IntegrAllTech](https://github.com/edsonmartins), software house AI-first focada em distribuição de alimentos, logística e integração com ERPs corporativos. No dia a dia atuo como **Arquiteto de Software e Soluções** — desenhando sistemas, definindo stacks, prototipando agentes. Como **founder**, direciono a visão de produto e a estratégia da empresa.
+**O que faço:** sou sócio-fundador da [IntegrAllTech](https://www.integrall.tech), software house AI-first focada em distribuição de alimentos, logística e integração com ERPs corporativos. No dia a dia atuo como **Arquiteto de Software e Soluções** — desenhando sistemas, definindo stacks, prototipando agentes. Como **founder**, direciono a visão de produto e a estratégia da empresa.
 
 ---
 
 ## 🚀 Portfólio de produtos
 
 ### 🔌 Integração (nosso ponto de partida)
-[![Mentors IPaaS](https://img.shields.io/badge/Mentors_IPaaS-Apache_Camel_4-1E6FF5?style=flat-square&logo=apachecamel&logoColor=white)](https://github.com/edsonmartins) Plataforma de integração corporativa com 62+ plugins. Fundação técnica que originou nossa expertise em ERPs (Consinco, Winthor, Oracle).
+[![Mentors IPaaS](https://img.shields.io/badge/Mentors_IPaaS-Apache_Camel_4-1E6FF5?style=flat-square&logo=apachecamel&logoColor=white)](https://mentorsipaas.com/) Plataforma de integração corporativa com 62+ plugins. Fundação técnica que originou nossa expertise em ERPs (Consinco, Winthor, Oracle).
 
 ### 🤖 IA & Agentes
 | Produto | Descrição | Stack |
 |---------|-----------|-------|
 | **VendaX.ai** | Automação comercial B2B com 6 agentes via WhatsApp | LangChain4j · LangGraph4j |
-| **[ArchFlow](https://github.com/edsonmartins/archflow)** | Framework Java open-source para agentes B2B | Java · Spring Boot |
-| **[Brain Sentry](https://brainsentry.io)** | Memória graph-native para agentes de IA | FalkorDB · Java 17 · Next.js |
-| **[PullWise.ai](https://pullwise.ai)** | Code review open-source para Java/Spring Boot | LangChain4j · SAST híbrido |
-| **Doclenz** | Inteligência documental com LLMs e RAG | Docling · vLLM |
+| **[ArchFlow](https://archflow.com.br/)** · [repo](https://github.com/edsonmartins/archflow) | Framework Java open-source para agentes B2B | Java · Spring Boot |
+| **[Brain Sentry](https://app.brainsentry.com.br/)** | Memória graph-native para agentes de IA | FalkorDB · Java 17 · Next.js |
+| **PullWise.ai** | Code review open-source para Java/Spring Boot | LangChain4j · SAST híbrido |
+| **[Doclenz](https://doclenz.dev/)** | Inteligência documental com LLMs e RAG | Docling · vLLM |
 
 ### 🏗️ Frameworks & Plataformas de Desenvolvimento
 | Produto | Descrição | Stack |
 |---------|-----------|-------|
-| **[Archbase Framework](https://github.com/edsonmartins/archbase-app-framework)** | Framework Java enterprise com DDD + Arquitetura Hexagonal | Spring Boot 3.5 · Java 17 |
+| **[Archbase Framework](https://archbase.dev/pt/)** · [repo](https://github.com/edsonmartins/archbase-app-framework) | Framework Java enterprise com DDD + Arquitetura Hexagonal — **41 artefatos no [Maven Central](https://central.sonatype.com/namespace/br.com.archbase)** | Spring Boot 3.5 · Java 17 |
 | **[Archbase React](https://github.com/edsonmartins/archbase-react)** | Componentes Mantine para B2B enterprise | React · TypeScript · Mantine |
 | **[UseDevKit](https://github.com/edsonmartins/usedevkit)** | Toolkit de desenvolvimento para o ecossistema Archbase | TypeScript |
 
@@ -88,7 +97,7 @@ const edson = {
 | Produto | Descrição | Stack |
 |---------|-----------|-------|
 | **RouteX.dev** | Roteirização multi-tenant para logística complexa | Timefold · GraphHopper · Nominatim |
-| **[Linktor](https://github.com/edsonmartins/linktor)** | Mensageria multicanal com Visual Response Engine | Go |
+| **[Linktor](https://linktor.dev/)** · [repo](https://github.com/edsonmartins/linktor) | Mensageria multicanal com Visual Response Engine | Go |
 | **Power View** | SaaS de Power BI Embedded | Keycloak · Azure AD |
 | **[SquadX.dev](https://github.com/edsonmartins/squadx.dev)** | Squad-as-a-Service AI-assisted | Multi-stack |
 
@@ -148,16 +157,16 @@ philosophy: "100% local-first, LGPD by design"
 
 <!-- WIDGETS COM CORES CUSTOMIZADAS DO LOGO INTEGRALLTECH -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=edsonmartins&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=3FCB5F&icon_color=2BB6D6&text_color=ffffff" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=edsonmartins&layout=compact&hide_border=true&bg_color=0D1117&title_color=3FCB5F&text_color=ffffff&langs_count=8" />
+  <img height="180em" alt="Estatísticas do GitHub de Edson Martins" src="https://github-readme-stats-sigma-five.vercel.app/api?username=edsonmartins&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=3FCB5F&icon_color=2BB6D6&text_color=ffffff" />
+  <img height="180em" alt="Linguagens mais usadas por Edson Martins" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=edsonmartins&layout=compact&hide_border=true&bg_color=0D1117&title_color=3FCB5F&text_color=ffffff&langs_count=8" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=edsonmartins&hide_border=true&background=0D1117&ring=3FCB5F&fire=3FCB5F&currStreakLabel=3FCB5F&stroke=2BB6D6&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" />
+  <img alt="Sequência de contribuições no GitHub" src="https://streak-stats.demolab.com/?user=edsonmartins&hide_border=true&background=0D1117&ring=3FCB5F&fire=3FCB5F&currStreakLabel=3FCB5F&stroke=2BB6D6&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=edsonmartins&hide_border=true&bg_color=0D1117&color=3FCB5F&line=2BB6D6&point=1E6FF5&title_color=3FCB5F&area=true&area_color=3FCB5F" />
+  <img alt="Gráfico de atividade de contribuições" src="https://github-readme-activity-graph.vercel.app/graph?username=edsonmartins&hide_border=true&bg_color=0D1117&color=3FCB5F&line=2BB6D6&point=1E6FF5&title_color=3FCB5F&area=true&area_color=3FCB5F" />
 </div>
 
 ---
@@ -165,7 +174,7 @@ philosophy: "100% local-first, LGPD by design"
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=edsonmartins&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10" />
+  <img alt="Troféus do GitHub" src="https://github-trophies.vercel.app/?username=edsonmartins&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10" />
 </div>
 
 ---
@@ -189,7 +198,7 @@ philosophy: "100% local-first, LGPD by design"
 
 I'm a software architect and founder building **AI-first solutions** for the Brazilian B2B market. Started programming in Clipper back in 1989 and have been crossing every tech wave since — from local systems to enterprise ERPs, from Java enterprise to distributed architectures, and now to what I consider the most transformative frontier: **AI agents applied to real business problems**.
 
-As co-founder of [IntegrAllTech](https://github.com/edsonmartins), I work at the intersection of technical architecture and product direction. Day-to-day I'm a **Software & Solutions Architect** — designing systems, defining stacks, prototyping AI agents. As **founder**, I drive product vision and company strategy.
+As co-founder of [IntegrAllTech](https://www.integrall.tech), I work at the intersection of technical architecture and product direction. Day-to-day I'm a **Software & Solutions Architect** — designing systems, defining stacks, prototyping AI agents. As **founder**, I drive product vision and company strategy.
 
 ### My thesis
 
@@ -197,13 +206,13 @@ The combination of **mature Java enterprise + AI agent orchestration + local inf
 
 ### What I'm building
 
-**🔌 Integration foundation:** Mentors IPaaS — Apache Camel 4 platform with 62+ plugins powering all our ERP integrations (Consinco, Winthor, Oracle, legacy).
+**🔌 Integration foundation:** [Mentors IPaaS](https://mentorsipaas.com/) — Apache Camel 4 platform with 62+ plugins powering all our ERP integrations (Consinco, Winthor, Oracle, legacy).
 
-**🤖 AI & Agents:** [VendaX.ai](https://github.com/edsonmartins) (B2B sales automation with 6 specialized agents via WhatsApp) · [ArchFlow](https://github.com/edsonmartins/archflow) (open-source Java agent framework) · [Brain Sentry](https://brainsentry.io) (graph-native agent memory on FalkorDB) · [PullWise.ai](https://pullwise.ai) (open-source AI code review for Java/Spring Boot) · Doclenz (document intelligence).
+**🤖 AI & Agents:** VendaX.ai (B2B sales automation with 6 specialized agents via WhatsApp) · [ArchFlow](https://archflow.com.br/) (open-source Java agent framework) · [Brain Sentry](https://app.brainsentry.com.br/) (graph-native agent memory on FalkorDB) · PullWise.ai (open-source AI code review for Java/Spring Boot) · [Doclenz](https://doclenz.dev/) (document intelligence).
 
-**🏗️ Frameworks:** [Archbase Framework](https://github.com/edsonmartins/archbase-app-framework) (enterprise Java with DDD + Hexagonal Architecture, on Maven Central) · [Archbase React](https://github.com/edsonmartins/archbase-react) (Mantine components for B2B enterprise) · [UseDevKit](https://github.com/edsonmartins/usedevkit).
+**🏗️ Frameworks:** [Archbase Framework](https://archbase.dev/pt/) (enterprise Java with DDD + Hexagonal Architecture — 41 artifacts on [Maven Central](https://central.sonatype.com/namespace/br.com.archbase)) · [Archbase React](https://github.com/edsonmartins/archbase-react) (Mantine components for B2B enterprise) · [UseDevKit](https://github.com/edsonmartins/usedevkit).
 
-**🚀 Business platforms:** RouteX.dev (multi-tenant routing optimization) · [Linktor](https://github.com/edsonmartins/linktor) (multichannel messaging in Go) · Power View (Power BI Embedded SaaS) · [SquadX.dev](https://github.com/edsonmartins/squadx.dev) (Squad-as-a-Service).
+**🚀 Business platforms:** RouteX.dev (multi-tenant routing optimization) · [Linktor](https://linktor.dev/) (multichannel messaging in Go) · Power View (Power BI Embedded SaaS) · [SquadX.dev](https://github.com/edsonmartins/squadx.dev) (Squad-as-a-Service).
 
 ### Local AI Lab
 
@@ -219,9 +228,9 @@ AI applied to B2B · Agent architectures · ERP integrations · Strategic partne
 
 <!-- FOOTER COM MESMO GRADIENTE DO HEADER (azul -> ciano -> verde) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E6FF5,50:2BB6D6,100:3FCB5F&height=120&section=footer" />
+  <img alt="Rodapé" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E6FF5,50:2BB6D6,100:3FCB5F&height=120&section=footer" />
 </div>
 
 <div align="center">
-  <i>⭐ From <a href="https://github.com/edsonmartins">edsonmartins</a> — Software house AI-first since now. Self-taught since 1989.</i>
+  <i>⭐ From <a href="https://github.com/edsonmartins">edsonmartins</a> — Building AI-first software for Brazilian B2B. Self-taught since 1989.</i>
 </div>
