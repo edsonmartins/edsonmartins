@@ -148,12 +148,12 @@ philosophy: "100% local-first, LGPD by design"
 
 <!-- WIDGETS COM CORES CUSTOMIZADAS DO LOGO INTEGRALLTECH -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edsonmartins&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=3FCB5F&icon_color=2BB6D6&text_color=ffffff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonmartins&layout=compact&hide_border=true&bg_color=0D1117&title_color=3FCB5F&text_color=ffffff&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=edsonmartins&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=3FCB5F&icon_color=2BB6D6&text_color=ffffff" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=edsonmartins&layout=compact&hide_border=true&bg_color=0D1117&title_color=3FCB5F&text_color=ffffff&langs_count=8" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edsonmartins&hide_border=true&background=0D1117&ring=3FCB5F&fire=3FCB5F&currStreakLabel=3FCB5F&stroke=2BB6D6&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" />
+  <img src="https://streak-stats.demolab.com/?user=edsonmartins&hide_border=true&background=0D1117&ring=3FCB5F&fire=3FCB5F&currStreakLabel=3FCB5F&stroke=2BB6D6&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" />
 </div>
 
 <div align="center">
@@ -165,7 +165,7 @@ philosophy: "100% local-first, LGPD by design"
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=edsonmartins&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10" />
+  <img src="https://github-trophies.vercel.app/?username=edsonmartins&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10" />
 </div>
 
 ---
