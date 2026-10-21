@@ -86,7 +86,7 @@ const edson = {
 ### 🤖 IA & Agentes
 | Produto | Descrição | Stack |
 |---------|-----------|-------|
-| **VendaX.ai** | Automação comercial B2B com 6 agentes via WhatsApp | LangChain4j · LangGraph4j |
+| **VendaX.ai** | Copiloto de vendas com IA para distribuidoras: cotação, pedido e reposição no app do vendedor, sem replicar o ERP (preço, crédito e estoque nunca passam por LLM) | Java 25 · Spring Boot 4 · LangChain4j · ArchFlow · Flutter |
 | **[ArchFlow](https://archflow.com.br/)** · [repo](https://github.com/edsonmartins/archflow) | Framework Java open-source para agentes B2B | Java · Spring Boot |
 | **[Brain Sentry](https://app.brainsentry.com.br/)** | Memória graph-native para agentes de IA | FalkorDB · Java 17 · Next.js |
 | **PullWise.ai** | Code review open-source para Java/Spring Boot | LangChain4j · SAST híbrido |
@@ -98,7 +98,7 @@ Um framework opinado para B2B enterprise, publicado nos **três** registries ofi
 
 | Camada | Registry | Pacotes | Stack |
 |--------|----------|---------|-------|
-| **[Archbase Framework](https://archbase.dev/pt/)** · [repo](https://github.com/edsonmartins/archbase-app-framework) | [Maven Central](https://central.sonatype.com/namespace/br.com.archbase) | **41 artefatos** em `br.com.archbase` | Spring Boot 3.5 · Java 17 · DDD + Hexagonal |
+| **[Archbase Framework](https://archbase.dev/pt/)** · [repo](https://github.com/edsonmartins/archbase-app-framework) | [Maven Central](https://central.sonatype.com/namespace/br.com.archbase) | **39 artefatos** em `br.com.archbase` (v3.4.4) | Spring Boot 4.1 · Java 25 · DDD + Onion · CQRS/eventos · multi-tenant |
 | **[Archbase React](https://github.com/edsonmartins/archbase-react)** | [npm](https://www.npmjs.com/package/@archbase/core) | **13 pacotes** no escopo `@archbase` | React · TypeScript · Mantine |
 | **[Archbase Flutter](https://pub.dev/packages/archbase_flutter)** · [repo](https://github.com/edsonmartins/archbase-flutter) | [pub.dev](https://pub.dev/packages/archbase_flutter) | **3 pacotes** — 150/160 pub points | Dart · Flutter · Material 3 |
 | **[UseDevKit](https://github.com/edsonmartins/usedevkit)** | — | Toolkit de desenvolvimento do ecossistema | TypeScript |
@@ -119,8 +119,8 @@ Um framework opinado para B2B enterprise, publicado nos **três** registries ofi
 ## 🛠️ Stack & Tools
 
 ### Backend & Languages
-![Java](https://img.shields.io/badge/Java_17--21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring_Boot_3.x-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Java](https://img.shields.io/badge/Java_17--25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring_Boot_3.x_%7C_4.x-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Camel](https://img.shields.io/badge/Apache_Camel_4-CC0000?style=for-the-badge&logo=apachecamel&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -237,9 +237,9 @@ The combination of **mature Java enterprise + AI agent orchestration + local inf
 
 **🔌 Integration foundation:** [Mentors IPaaS](https://mentorsipaas.com/) — Apache Camel 4 platform with 62+ plugins powering all our ERP integrations (Consinco, Winthor, Oracle, legacy).
 
-**🤖 AI & Agents:** VendaX.ai (B2B sales automation with 6 specialized agents via WhatsApp) · [ArchFlow](https://archflow.com.br/) (open-source Java agent framework) · [Brain Sentry](https://app.brainsentry.com.br/) (graph-native agent memory on FalkorDB) · PullWise.ai (open-source AI code review for Java/Spring Boot) · [Doclenz](https://doclenz.dev/) (document intelligence).
+**🤖 AI & Agents:** VendaX.ai (AI sales copilot for food & beverage distributors: quotes, orders and replenishment in the sales rep's app, without replicating the ERP — price, credit and stock never go through an LLM) · [ArchFlow](https://archflow.com.br/) (open-source Java agent framework) · [Brain Sentry](https://app.brainsentry.com.br/) (graph-native agent memory on FalkorDB) · PullWise.ai (open-source AI code review for Java/Spring Boot) · [Doclenz](https://doclenz.dev/) (document intelligence).
 
-**🏗️ Archbase — full-stack ecosystem:** an opinionated B2B enterprise framework shipped on all three official registries of the platforms it covers — **41 artifacts** on [Maven Central](https://central.sonatype.com/namespace/br.com.archbase) (`br.com.archbase`, Spring Boot 3.5 + DDD/Hexagonal), **13 packages** on [npm](https://www.npmjs.com/package/@archbase/core) (`@archbase` scope, React + Mantine), and **3 packages** on [pub.dev](https://pub.dev/packages/archbase_flutter) (Flutter, 150/160 pub points). Plus [UseDevKit](https://github.com/edsonmartins/usedevkit).
+**🏗️ Archbase — full-stack ecosystem:** an opinionated B2B enterprise framework shipped on all three official registries of the platforms it covers — **39 artifacts** on [Maven Central](https://central.sonatype.com/namespace/br.com.archbase) (`br.com.archbase` v3.4.4, Spring Boot 4.1 + Java 25, DDD/Onion, CQRS, multi-tenant), **13 packages** on [npm](https://www.npmjs.com/package/@archbase/core) (`@archbase` scope, React + Mantine), and **3 packages** on [pub.dev](https://pub.dev/packages/archbase_flutter) (Flutter, 150/160 pub points). Plus [UseDevKit](https://github.com/edsonmartins/usedevkit).
 
 **🚀 Business platforms:** RouteX.dev (multi-tenant routing optimization) · [Linktor](https://linktor.dev/) (multichannel messaging in Go, with a [WebChat SDK](https://github.com/edsonmartins/linktor-webchat-sdk) for HTML/React/Vue/Angular and an on-device [WhatsApp bridge](https://github.com/edsonmartins/linktor-bridges)) · [ArchGate](https://github.com/edsonmartins/archgate) (open-source privileged access platform: no target credentials in developers' hands, ephemeral secrets, recorded sessions) · Power View (Power BI Embedded SaaS) · [SquadX.dev](https://github.com/edsonmartins/squadx.dev) (Squad-as-a-Service).
 
