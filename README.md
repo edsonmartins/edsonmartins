@@ -166,12 +166,23 @@ philosophy: "100% local-first, LGPD by design"
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub & Bitbucket Stats
 
 <!-- WIDGETS COM CORES CUSTOMIZADAS DO LOGO INTEGRALLTECH -->
 <div align="center">
   <img height="180em" alt="Estatísticas do GitHub de Edson Martins" src="https://github-readme-stats-sigma-five.vercel.app/api?username=edsonmartins&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=3FCB5F&icon_color=2BB6D6&text_color=ffffff" />
   <img height="180em" alt="Linguagens mais usadas por Edson Martins" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=edsonmartins&layout=compact&hide_border=true&bg_color=0D1117&title_color=3FCB5F&text_color=ffffff&langs_count=8" />
+</div>
+
+<!-- BITBUCKET: a maior parte do código da IntegrAllTech vive em repos privados no Bitbucket.
+     SVGs gerados diariamente por um job local e publicados na branch `stats` deste repo
+     (só números agregados; nenhum nome de repositório). -->
+<div align="center">
+  <img height="180em" alt="Estatísticas no Bitbucket: commits e repositórios privados" src="https://raw.githubusercontent.com/edsonmartins/edsonmartins/stats/bitbucket-stats.svg" />
+</div>
+
+<div align="center">
+  <img alt="Mapa de contribuições dos últimos 12 meses somando GitHub e Bitbucket" src="https://raw.githubusercontent.com/edsonmartins/edsonmartins/stats/contribuicoes.svg" />
 </div>
 
 <div align="center">
