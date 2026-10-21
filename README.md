@@ -108,6 +108,9 @@ Um framework opinado para B2B enterprise, publicado nos **três** registries ofi
 |---------|-----------|-------|
 | **RouteX.dev** | Roteirização multi-tenant para logística complexa | Timefold · GraphHopper · Nominatim |
 | **[Linktor](https://linktor.dev/)** · [repo](https://github.com/edsonmartins/linktor) | Mensageria multicanal com Visual Response Engine | Go |
+| **[Linktor WebChat SDK](https://github.com/edsonmartins/linktor-webchat-sdk)** · [npm](https://www.npmjs.com/package/@linktor/webchat-core) | Widget de chat do Linktor para HTML, React, Vue e Angular | TypeScript |
+| **[Linktor Bridge](https://github.com/edsonmartins/linktor-bridges)** | Sessão WhatsApp no device do usuário (Android e desktop) conectada ao Linktor | Go · Kotlin |
+| **[ArchGate](https://github.com/edsonmartins/archgate)** | Acesso privilegiado sem credencial na mão do dev: identidade central, credenciais efêmeras e sessões gravadas | Warpgate · OpenBao · Java · Go |
 | **Power View** | SaaS de Power BI Embedded | Keycloak · Azure AD |
 | **[SquadX.dev](https://github.com/edsonmartins/squadx.dev)** | Squad-as-a-Service AI-assisted | Multi-stack |
 
@@ -175,10 +178,6 @@ philosophy: "100% local-first, LGPD by design"
   <img alt="Sequência de contribuições no GitHub" src="https://streak-stats.demolab.com/?user=edsonmartins&hide_border=true&background=0D1117&ring=3FCB5F&fire=3FCB5F&currStreakLabel=3FCB5F&stroke=2BB6D6&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" />
 </div>
 
-<div align="center">
-  <img alt="Gráfico de atividade de contribuições" src="https://github-readme-activity-graph.vercel.app/graph?username=edsonmartins&hide_border=true&bg_color=0D1117&color=3FCB5F&line=2BB6D6&point=1E6FF5&title_color=3FCB5F&area=true&area_color=3FCB5F" />
-</div>
-
 <!-- SNAKE: gerado pelo workflow .github/workflows/snake.yml e servido do próprio repo -->
 <div align="center">
   <picture>
@@ -231,7 +230,7 @@ The combination of **mature Java enterprise + AI agent orchestration + local inf
 
 **🏗️ Archbase — full-stack ecosystem:** an opinionated B2B enterprise framework shipped on all three official registries of the platforms it covers — **41 artifacts** on [Maven Central](https://central.sonatype.com/namespace/br.com.archbase) (`br.com.archbase`, Spring Boot 3.5 + DDD/Hexagonal), **13 packages** on [npm](https://www.npmjs.com/package/@archbase/core) (`@archbase` scope, React + Mantine), and **3 packages** on [pub.dev](https://pub.dev/packages/archbase_flutter) (Flutter, 150/160 pub points). Plus [UseDevKit](https://github.com/edsonmartins/usedevkit).
 
-**🚀 Business platforms:** RouteX.dev (multi-tenant routing optimization) · [Linktor](https://linktor.dev/) (multichannel messaging in Go) · Power View (Power BI Embedded SaaS) · [SquadX.dev](https://github.com/edsonmartins/squadx.dev) (Squad-as-a-Service).
+**🚀 Business platforms:** RouteX.dev (multi-tenant routing optimization) · [Linktor](https://linktor.dev/) (multichannel messaging in Go, with a [WebChat SDK](https://github.com/edsonmartins/linktor-webchat-sdk) for HTML/React/Vue/Angular and an on-device [WhatsApp bridge](https://github.com/edsonmartins/linktor-bridges)) · [ArchGate](https://github.com/edsonmartins/archgate) (open-source privileged access platform: no target credentials in developers' hands, ephemeral secrets, recorded sessions) · Power View (Power BI Embedded SaaS) · [SquadX.dev](https://github.com/edsonmartins/squadx.dev) (Squad-as-a-Service).
 
 ### Local AI Lab
 
