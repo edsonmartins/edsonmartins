@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="802" height="206" viewBox="0 0 802 206" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" role="img" aria-labelledby="t">
-<title id="t">Contribuições nos últimos 12 meses: GitHub 3.586 e Bitbucket 12.462</title>
+<title id="t">Contribuições nos últimos 12 meses: GitHub 3.591 e Bitbucket 12.523</title>
 <rect x="0.5" y="0.5" width="801" height="205" rx="4.5" fill="#0D1117"/>
-<text x="25" y="30" fill="#3FCB5F" font-size="18" font-weight="600">16.048 contribuições nos últimos 12 meses</text>
-<text x="782" y="30" fill="#8B949E" font-size="12.5" text-anchor="end">GitHub <tspan fill="#FFFFFF" font-weight="700">3.586</tspan>  ·  Bitbucket <tspan fill="#FFFFFF" font-weight="700">12.462</tspan></text>
+<text x="25" y="30" fill="#3FCB5F" font-size="18" font-weight="600">16.114 contribuições nos últimos 12 meses</text>
+<text x="782" y="30" fill="#8B949E" font-size="12.5" text-anchor="end">GitHub <tspan fill="#FFFFFF" font-weight="700">3.591</tspan>  ·  Bitbucket <tspan fill="#FFFFFF" font-weight="700">12.523</tspan></text>
 <rect x="40" y="62" width="11" height="11" rx="2" fill="#123D23"><title>26/10/2025: 6</title></rect>
 <rect x="40" y="76" width="11" height="11" rx="2" fill="#123D23"><title>27/10/2025: 3</title></rect>
 <rect x="40" y="90" width="11" height="11" rx="2" fill="#123D23"><title>28/10/2025: 5</title></rect>
@@ -161,8 +161,8 @@
 <rect x="334" y="104" width="11" height="11" rx="2" fill="#1B6B37"><title>25/03/2026: 24</title></rect>
 <rect x="334" y="118" width="11" height="11" rx="2" fill="#1B6B37"><title>26/03/2026: 23</title></rect>
 <rect x="334" y="132" width="11" height="11" rx="2" fill="#1B6B37"><title>27/03/2026: 25</title></rect>
-<rect x="334" y="146" width="11" height="11" rx="2" fill="#2A9D4B"><title>28/03/2026: 32</title></rect>
-<rect x="348" y="62" width="11" height="11" rx="2" fill="#2A9D4B"><title>29/03/2026: 32</title></rect>
+<rect x="334" y="146" width="11" height="11" rx="2" fill="#1B6B37"><title>28/03/2026: 32</title></rect>
+<rect x="348" y="62" width="11" height="11" rx="2" fill="#1B6B37"><title>29/03/2026: 32</title></rect>
 <rect x="348" y="76" width="11" height="11" rx="2" fill="#123D23"><title>30/03/2026: 5</title></rect>
 <rect x="348" y="90" width="11" height="11" rx="2" fill="#1B6B37"><title>31/03/2026: 25</title></rect>
 <rect x="348" y="104" width="11" height="11" rx="2" fill="#1B6B37"><title>01/04/2026: 23</title></rect>
@@ -178,7 +178,7 @@
 <rect x="362" y="132" width="11" height="11" rx="2" fill="#123D23"><title>10/04/2026: 6</title></rect>
 <rect x="362" y="146" width="11" height="11" rx="2" fill="#123D23"><title>11/04/2026: 11</title></rect>
 <rect x="376" y="62" width="11" height="11" rx="2" fill="#123D23"><title>12/04/2026: 7</title></rect>
-<rect x="376" y="76" width="11" height="11" rx="2" fill="#2A9D4B"><title>13/04/2026: 32</title></rect>
+<rect x="376" y="76" width="11" height="11" rx="2" fill="#1B6B37"><title>13/04/2026: 32</title></rect>
 <rect x="376" y="90" width="11" height="11" rx="2" fill="#2A9D4B"><title>14/04/2026: 47</title></rect>
 <rect x="376" y="104" width="11" height="11" rx="2" fill="#123D23"><title>15/04/2026: 7</title></rect>
 <rect x="376" y="118" width="11" height="11" rx="2" fill="#1B6B37"><title>16/04/2026: 25</title></rect>
@@ -375,12 +375,13 @@
 <rect x="754" y="62" width="11" height="11" rx="2" fill="#3FCB5F"><title>18/10/2026: 150</title></rect>
 <rect x="754" y="76" width="11" height="11" rx="2" fill="#3FCB5F"><title>19/10/2026: 181</title></rect>
 <rect x="754" y="90" width="11" height="11" rx="2" fill="#3FCB5F"><title>20/10/2026: 221</title></rect>
-<rect x="754" y="104" width="11" height="11" rx="2" fill="#3FCB5F"><title>21/10/2026: 243</title></rect>
+<rect x="754" y="104" width="11" height="11" rx="2" fill="#3FCB5F"><title>21/10/2026: 245</title></rect>
 <rect x="754" y="118" width="11" height="11" rx="2" fill="#3FCB5F"><title>22/10/2026: 97</title></rect>
 <rect x="754" y="132" width="11" height="11" rx="2" fill="#3FCB5F"><title>23/10/2026: 322</title></rect>
 <rect x="754" y="146" width="11" height="11" rx="2" fill="#3FCB5F"><title>24/10/2026: 198</title></rect>
 <rect x="768" y="62" width="11" height="11" rx="2" fill="#3FCB5F"><title>25/10/2026: 113</title></rect>
-<rect x="768" y="76" width="11" height="11" rx="2" fill="#123D23"><title>26/10/2026: 7</title></rect>
+<rect x="768" y="76" width="11" height="11" rx="2" fill="#2A9D4B"><title>26/10/2026: 71</title></rect>
+<rect x="768" y="90" width="11" height="11" rx="2" fill="#161B22"><title>27/10/2026: 0</title></rect>
 <text x="32" y="85" fill="#8B949E" font-size="10" text-anchor="end">seg</text>
 <text x="32" y="113" fill="#8B949E" font-size="10" text-anchor="end">qua</text>
 <text x="32" y="141" fill="#8B949E" font-size="10" text-anchor="end">sex</text>
