@@ -10,10 +10,10 @@
 <text x="290" y="93" fill="#FFFFFF" font-size="14" font-weight="700" text-anchor="end">18.414</text>
 <circle cx="31" cy="113" r="4" fill="#2BB6D6"/>
 <text x="45" y="118" fill="#FFFFFF" font-size="14" font-weight="600">Commits em 12 meses:</text>
-<text x="290" y="118" fill="#FFFFFF" font-size="14" font-weight="700" text-anchor="end">13.801</text>
+<text x="290" y="118" fill="#FFFFFF" font-size="14" font-weight="700" text-anchor="end">13.793</text>
 <circle cx="31" cy="138" r="4" fill="#2BB6D6"/>
 <text x="45" y="143" fill="#FFFFFF" font-size="14" font-weight="600">Repos ativos em 12 meses:</text>
-<text x="290" y="143" fill="#FFFFFF" font-size="14" font-weight="700" text-anchor="end">113</text>
+<text x="290" y="143" fill="#FFFFFF" font-size="14" font-weight="700" text-anchor="end">112</text>
 <circle cx="31" cy="163" r="4" fill="#2BB6D6"/>
 <text x="45" y="168" fill="#FFFFFF" font-size="14" font-weight="600">Anos com commits:</text>
 <text x="290" y="168" fill="#FFFFFF" font-size="14" font-weight="700" text-anchor="end">14</text>
